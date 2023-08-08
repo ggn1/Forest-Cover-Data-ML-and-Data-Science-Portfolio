@@ -2,7 +2,7 @@
 
 This project employs different data processing, analysis and visualization methods on forest cover data and draws insights/conclusions from it. Multiple machine learning algorithms were also experimented with.
 
-The project file is named, "ML_DataScience_Portfolio.ipynb".
+The main project file is named, "forest_cover_data_science_project.ipynb".
 
 ### Note!
 
